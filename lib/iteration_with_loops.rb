@@ -7,9 +7,9 @@ def join_nested_strings(src)
      if src[row_index][element_index] == " "
        outer_results << src[row_index][element_index]
      end
-     element_index += 1
-   end
-   row_index += 1
- end
- return outer_results
-end
+#     element_index += 1
+#   end
+#   row_index += 1
+# end
+# return outer_results
+# end
