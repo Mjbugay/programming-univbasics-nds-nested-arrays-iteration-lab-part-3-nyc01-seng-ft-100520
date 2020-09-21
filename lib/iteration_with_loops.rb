@@ -7,8 +7,7 @@ def join_nested_strings(src)
      string = src[row_index]-(1..9).to_a  
      element_index += 1
   end
-  new_array << 
-  row_index += 1
+ row_index += 1
 end
 return outer_results
 end
