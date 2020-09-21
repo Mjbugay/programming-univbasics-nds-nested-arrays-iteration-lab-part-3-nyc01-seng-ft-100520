@@ -9,5 +9,5 @@ def join_nested_strings(src)
   end
  row_index += 1
 end
-return outer_results
+new_array << string
 end
