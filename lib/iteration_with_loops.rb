@@ -15,9 +15,3 @@ def join_nested_strings(src)
 end
 return outer_results
 end
-
-join_nested_strings([
-  ["The", 4, "quick"],
-  [-1, "brown", "fox", 30],
-  ["studied", 101, 233, "Ruby"]
-])
