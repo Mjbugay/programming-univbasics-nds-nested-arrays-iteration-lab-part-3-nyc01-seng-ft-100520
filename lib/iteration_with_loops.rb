@@ -14,4 +14,3 @@ end
 return outer_results
 end
 
-join_nested_strings(src)
