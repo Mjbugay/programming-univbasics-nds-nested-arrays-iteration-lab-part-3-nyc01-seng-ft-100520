@@ -8,6 +8,7 @@ def join_nested_strings(src)
      end
    element_index += 1
   end
+  new_array << 
   row_index += 1
 end
 return outer_results
