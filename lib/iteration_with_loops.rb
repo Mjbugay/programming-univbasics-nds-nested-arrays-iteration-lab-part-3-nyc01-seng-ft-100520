@@ -14,4 +14,3 @@ def join_nested_strings(src)
   return outer_results
 end 
 
-join_nested_strings(mixed_data1)
