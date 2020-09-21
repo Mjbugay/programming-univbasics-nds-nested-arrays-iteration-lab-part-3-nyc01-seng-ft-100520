@@ -9,4 +9,6 @@ def join_nested_strings(src)
   end
   row_index += 1
   new_array << string
+ end
+ 
 end
